@@ -15,9 +15,10 @@ The Airline Reservation System is a full-stack web application designed to strea
 **Backend Setup**
 - Install dependencies using Spring Tool Suite.
 - Configure MySQL database settings.
+  
 **Frontend Setup**
-  - Navigate to the `frontend` directory.
-    - Install dependencies using npm:
+- Navigate to the `frontend` directory.
+- Install dependencies using npm:
 
         ```bash
         npm install
